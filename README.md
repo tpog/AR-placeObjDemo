@@ -9,3 +9,5 @@ Assests and script for PlaneTracking and object placement
 - Close player setting and connect your Android/iOS device where you should have already enabled USB debugging from the developers option of your phone.
 - Allow for USB debugging and under Run Device select your device
 - Build and run 
+
+Resources from existing works were used to build this code
